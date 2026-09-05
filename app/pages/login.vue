@@ -1,15 +1,11 @@
 <template>
   <PageWrapper>
-    <h3>Stats</h3>
+    <h2>Login page</h2>
   </PageWrapper>
 </template>
 
 <script lang="ts" setup>
 definePageMeta({
-  middleware: "auth",
+  layout: "unauthorized",
 })
 </script>
-
-<style>
-
-</style>

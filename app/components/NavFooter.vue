@@ -1,5 +1,5 @@
 <template>
-  <div class="max-w-10/12 mx-auto p-4">
+  <div class="w-full max-w-10/12 mx-auto p-4">
     <footer>
       <p>Listify - 2026</p>
     </footer>
