@@ -1,6 +1,6 @@
 <template>
   <PageWrapper>
-    <h3>Stats</h3>
+    <h3>Minhas Listas</h3>
   </PageWrapper>
 </template>
 
